@@ -1,5 +1,11 @@
 # stash
 
+[![License](https://img.shields.io/github/license/BlackthornDevs/stash)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/BlackthornDevs/stash)](https://github.com/BlackthornDevs/stash/commits)
+[![Repo Size](https://img.shields.io/github/repo-size/BlackthornDevs/stash)](https://github.com/BlackthornDevs/stash)
+[![Open Issues](https://img.shields.io/github/issues/BlackthornDevs/stash)](https://github.com/BlackthornDevs/stash/issues)
+[![Knowledge Base](https://img.shields.io/badge/Type-Knowledge%20Base-blueviolet)](https://github.com/BlackthornDevs/stash)
+
 General purpose repo for brain dumps and random ideas.
 
 ## Purpose
